@@ -41,10 +41,6 @@
 - 🐍 Python 3.8+ (if running from source)
 - 📦 Required Python packages (see requirements below)
 
-### 📦 Required Python Packages
-```bash
-pip install numpy opencv-python bettercam pyautogui pyserial colorama win32api configparser requests
-```
 
 ### 🖥️ Hardware Requirements
 - 🔌 Compatible serial device (if using serial communication)
