@@ -2,8 +2,8 @@
 
 # 🎯 ValoAim V1.5
 
-[![License](https://img.shields.io/badge/License-Licensed-blue.svg)](https://github.com/yourusername/valoaim)
-[![Version](https://img.shields.io/badge/Version-1.5-green.svg)](https://github.com/yourusername/valoaim/releases)
+[![License](https://img.shields.io/badge/License-Licensed-blue.svg)](https://github.com/superangelguy/valoaim)
+[![Version](https://img.shields.io/badge/Version-1.5-green.svg)](https://github.com/superangelguy/valoaim/releases)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
 [![Python](https://img.shields.io/badge/Python-3.8+-yellow.svg)](https://python.org)
 
