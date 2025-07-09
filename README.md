@@ -43,7 +43,7 @@
 
 
 ### 🖥️ Hardware Requirements
-- 🔌 Compatible serial device (if using serial communication)
+- 🔌 Arduino Leonardo + Usb Host Sheild 
 - 📺 Screen resolution: 1920x1080 recommended
 
 ---
