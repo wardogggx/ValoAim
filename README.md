@@ -54,7 +54,7 @@ pip install numpy opencv-python bettercam pyautogui pyserial colorama win32api c
 
 ## ⚙️ Setup
 
-1. 📁 **Download/Clone** the project files
+1. 📁 **Download** the project files
 2. 📄 **Place config.ini** in the same directory as the executable/script
 3. 🔑 **Configure your license key** in config.ini
 4. ⚙️ **Adjust settings** according to your preferences
