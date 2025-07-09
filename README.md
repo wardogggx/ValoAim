@@ -236,16 +236,6 @@ aim_keys = 0x01, 0x02       # Left Click, Right Click
 3. **Recoil Patterns**: Test different weapons and adjust recoil values accordingly
 4. **FOV Settings**: Smaller FOV = better performance, larger FOV = wider detection
 
-### Debug Mode
-Enable debug mode in the configuration to see detailed information:
-```ini
-[debug]
-debug = true
-debug_always_on = false
-display_mode = overlay
-license_debug = false
-```
-
 ## Support
 
 For technical support or feature requests, please ensure you have:
