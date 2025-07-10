@@ -71,7 +71,6 @@ key = YOUR-LICENSE-KEY-HERE
 com_port = COM3
 ```
 - **com_port**: Serial communication port (e.g., COM3, COM4)
-- **type**: Communication type (none, driver, serial, socket) - defaults to serial
 
 ### 🖥️ [screen]
 ```ini
